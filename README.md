@@ -6,4 +6,4 @@ In this project I had used angular services,angular components, nested component
 
 
 ![capture](https://user-images.githubusercontent.com/35774712/35464573-9a986390-02c4-11e8-9b25-16b59fbdd4a3.PNG)
-DEMO (https://vimeo.com/252970528)]
+DEMO https://vimeo.com/252970528
