@@ -1,0 +1,13 @@
+/* You can add global styles to this file, and also import other style files */
+[_ngcontent-c2].crop{
+    overflow: hidden;
+}
+
+.card-body input[type="text"] {
+    width: 200px;
+    height:25px;    
+ }
+
+ .card-body .table{
+     margin-top: 25px;
+ }

@@ -1,0 +1,37 @@
+<div class="card text-center">
+    <div class="card-header bg-light">
+      <span class="h5  font-weight-bold">{{wonder.WonderName}}</span>
+    </div>
+    <div class="card-body">
+        <table style="text-align: left;margin:0 auto;">
+            <tr>
+                <td rowspan="5"><div class='col-md-12'><img [src]='wonder.imageUrl' [title]='wonder.WonderName' [style.width.px]='150' [style.height.px]='150'/></div></td>                
+                <td>Name:</td>
+                <td>{{wonder.WonderName}}</td>                                
+            </tr>
+            <tr>
+                <td>Location:</td>
+                <td>{{wonder.WonderLocation}}</td>              
+            </tr>
+            <tr>
+                <td>Description:</td>
+                <td>{{wonder.Description}}</td>
+            </tr>
+            <tr>
+                    <td>Built:</td>
+                    <td>{{wonder.Built}}</td>
+            </tr>
+            <tr>
+                    <td>User Rating:</td>
+                    <td><app-star [rating]='wonder.UserRating'></app-star></td>
+            </tr> 
+        </table> 
+    </div>
+    <div class="card-footer bg-light">
+        <a class='btn btn-default' (click)='onBack()' style='width:80px'>            
+            <button type="button" class="btn btn-primary">Back</button>
+        </a>
+    </div>
+  </div>
+
+  

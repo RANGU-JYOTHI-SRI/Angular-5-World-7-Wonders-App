@@ -1,0 +1,36 @@
+<div class="card text-center">
+    <div class="card-header bg-light">
+      <span class="h5  font-weight-bold">{{pageTitle}}</span>
+    </div>
+    <div class="card-body">
+          <div class="row">
+            <div>Filter By:</div>
+            <input type="text" class="form-control" [(ngModel)]='listFilter'>            
+          </div>
+
+        <table class="table"  *ngIf = 'wonders && wonders.length'>
+            <thead>
+              <tr>
+                <th> Image</th>                
+                <th>Wonder Name</th>
+                <th>Wonder Location</th>
+                <th>Built</th>
+                <th>User Rating</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr *ngFor = 'let wonder of filteredWonders'>                
+                <td><img [src]='wonder.imageUrl' [title]='wonder.WonderName' [style.width.px]='50' [style.height.px]='50'/></td>                               
+                <td><a [routerLink]="['/wonders',wonder.WonderId]">{{wonder.WonderName}}</a></td>
+                <td>{{wonder.WonderLocation}}</td>
+                <td>{{wonder.Built}}</td>
+                <td><app-star [rating]='wonder.UserRating'></app-star></td>                
+              </tr>              
+            </tbody>
+          </table>
+    
+    </div>
+    <div class="card-footer">
+      
+    </div>
+  </div>

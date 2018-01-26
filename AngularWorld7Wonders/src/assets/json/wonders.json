@@ -1,0 +1,65 @@
+[
+    {
+        "WonderId": 1,
+        "WonderName": "Great Wall of China",
+        "WonderLocation": "China",        
+        "Description": "The Great Wall of China is a series of fortifications made of stone, brick, tamped earth, wood, and other materials.",
+        "Built": "7 century BC",
+        "UserRating": 3.2,
+        "imageUrl": "https://openclipart.org/image/800px/svg_to_png/279931/anothergreatwallofchinaclipart.png"
+    },
+    {
+        "WonderId": 2,
+        "WonderName": "Petra",
+        "WonderLocation": "Jordan",        
+        "Description": "Originally known as Raqmu (Nabataean Arabic: الرقيم), is a historical and archaeological city in southern Jordan.",
+        "Built": "100 BC",
+        "UserRating": 3.8,
+        "imageUrl": "https://openclipart.org/image/800px/svg_to_png/220522/sultan-ismail-petra-arch-kota-bharu.png"
+    },
+    {
+        "WonderId": 3,
+        "WonderName": "Christ the Redeemer",
+        "WonderLocation": "Brazil",        
+        "Description": "It is an Art Deco statue of Jesus Christ in Rio de Janeiro, Brazil, created by French sculptor Paul Landowski.",
+        "Built": 1931,
+        "UserRating": 3.0,
+        "imageUrl": "https://openclipart.org/image/800px/svg_to_png/280167/Christ-The-Redeemer-Statue-Silhouette.png"
+    },
+    {
+        "WonderId": 4,
+        "WonderName": "Machu Picchu",
+        "WonderLocation": "Peru",        
+        "Description": "It is located in the Cusco Region, Urubamba Province, Machupicchu District in Peru,[4] above the Sacred Valley.",
+        "Built": "AD 1450",
+        "UserRating": 4.0,
+        "imageUrl": "https://openclipart.org/image/800px/svg_to_png/257288/Surreal-Machu-Picchu.png"
+    },
+    {
+        "WonderId": 5,
+        "WonderName": "Leaning tower of Pizza",
+        "WonderLocation": "Italy",        
+        "Description": "the Tower of Pisa (Torre di Pisa [ˈtorre di ˈpiːza]) is the campanile, or freestanding bell tower.",
+        "Built": "1372",
+        "UserRating": 4.2,
+        "imageUrl": "https://openclipart.org/image/800px/svg_to_png/1186/johnny-automatic-leaning-tower-of-pisa.png"
+    },
+    {
+        "WonderId": 6,
+        "WonderName": "Colosseum",
+        "WonderLocation": "Italy",        
+        "Description": "Built of travertine, tuff, and brick-faced concrete,[1] it is the largest amphitheatre ever built.",
+        "Built": "AD 80",
+        "UserRating": 4.5,
+        "imageUrl": "https://openclipart.org/image/800px/svg_to_png/219808/theColosseum.png"
+    },
+    {
+        "WonderId": 7,
+        "WonderName": "Taj Mahal",
+        "WonderLocation": "India",        
+        "Description": "The Taj Mahal is an ivory-white marble mausoleum on the south bank of the Yamuna river in the Indian city of Agra.",
+        "Built": "AD 1648",
+        "UserRating": 4.8,
+        "imageUrl": "https://openclipart.org/image/800px/svg_to_png/220322/Taj-Mahal-4.png"
+    }
+]

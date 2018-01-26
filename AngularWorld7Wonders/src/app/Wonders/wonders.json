@@ -1,0 +1,65 @@
+[
+    {
+        "WonderId": 1,
+        "WonderName": "Great Wall of China",
+        "WonderLocation": "China",        
+        "Description": "Leaf rake with 48-inch wooden handle.",
+        "Built": "7 century BC",
+        "UserRating": 3.2,
+        "imageUrl": "https://openclipart.org/image/800px/svg_to_png/279931/anothergreatwallofchinaclipart.png"
+    },
+    {
+        "WonderId": 2,
+        "WonderName": "Petra",
+        "WonderLocation": "Jordan",        
+        "Description": "Leaf rake with 48-inch wooden handle.",
+        "Built": "100 BC",
+        "UserRating": 3.8,
+        "imageUrl": "https://openclipart.org/image/800px/svg_to_png/220522/sultan-ismail-petra-arch-kota-bharu.png"
+    },
+    {
+        "WonderId": 3,
+        "WonderName": "Christ the Redeemer",
+        "WonderLocation": "Brazil",        
+        "Description": "Leaf rake with 48-inch wooden handle.",
+        "Built": 1931,
+        "UserRating": 3.0,
+        "imageUrl": "https://openclipart.org/image/800px/svg_to_png/280167/Christ-The-Redeemer-Statue-Silhouette.png"
+    },
+    {
+        "WonderId": 4,
+        "WonderName": "Machu Picchu",
+        "WonderLocation": "Peru",        
+        "Description": "Leaf rake with 48-inch wooden handle.",
+        "Built": "AD 1450",
+        "UserRating": 4.0,
+        "imageUrl": "https://openclipart.org/image/800px/svg_to_png/257288/Surreal-Machu-Picchu.png"
+    },
+    {
+        "WonderId": 5,
+        "WonderName": "Chichen Itza",
+        "WonderLocation": "Mexico",        
+        "Description": "Leaf rake with 48-inch wooden handle.",
+        "Built": "AD 600",
+        "UserRating": 4.2,
+        "imageUrl": "http://openclipart.org/image/300px/svg_to_png/26215/Anonymous_Leaf_Rake.png"
+    },
+    {
+        "WonderId": 6,
+        "WonderName": "Colosseum",
+        "WonderLocation": "Italy",        
+        "Description": "Leaf rake with 48-inch wooden handle.",
+        "Built": "AD 80",
+        "UserRating": 4.5,
+        "imageUrl": "https://openclipart.org/image/800px/svg_to_png/219808/theColosseum.png"
+    },
+    {
+        "WonderId": 7,
+        "WonderName": "Taj Mahal",
+        "WonderLocation": "India",        
+        "Description": "Leaf rake with 48-inch wooden handle.",
+        "Built": "AD 1648",
+        "UserRating": 4.8,
+        "imageUrl": "https://openclipart.org/image/800px/svg_to_png/220322/Taj-Mahal-4.png"
+    }
+]
